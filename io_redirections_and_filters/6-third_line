@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 6-third_line | wc -l 
+head -3 iacta | tail -1 
