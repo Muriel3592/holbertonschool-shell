@@ -1,2 +1,2 @@
 #!/bin/bash
- --time-style -l FORMAT2<nouvelle_ligne>FORMAT1
+ls -lt | head -10
