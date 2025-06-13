@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -L c C
+tr c | tr  C
