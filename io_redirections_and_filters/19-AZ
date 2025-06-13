@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -L {c-e A-Z}
+tr -L {ce AZ}
